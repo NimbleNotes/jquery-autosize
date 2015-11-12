@@ -1,4 +1,5 @@
 Package.describe({
+  name: 'nimblenotes:jquery-autosize',
   summary: 'Automatically adjust textarea height based on user input.',
   version: '1.17.8',
   git: "https://github.com/copleykj/jquery-autosize.git"
